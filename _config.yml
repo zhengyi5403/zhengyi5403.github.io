@@ -7,7 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zhengyi5403.github.io/" # the base hostname & protocol for your site
 #twitter_username: zhengyi5403
 github_username:  zhengyi5403
-theme: no-style-please
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+show_downloads: false
 
 # Build settings
 markdown: kramdown
