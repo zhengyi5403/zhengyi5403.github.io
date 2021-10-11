@@ -1,8 +1,8 @@
 # Site settings
-title: 永恒时段 
+title: Draw a Tomorrow
 email: zhengyi5403@163.com
 description: > # this means to ignore newlines until "baseurl:"
-     个人站点
+     It's a personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zhengyi5403.github.io/" # the base hostname & protocol for your site
 #twitter_username: zhengyi5403
